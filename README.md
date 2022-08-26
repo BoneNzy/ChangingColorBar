@@ -7,5 +7,5 @@ If you enter number less than 20(<20) the bar will load in red color.
 If you enter number more than equal to 20 up to less than equal to 75(20<= upto >=75) the bar will load in yellow.  
 If you enter number more than 75 up to hudred the bar will load in green color (75< upto >=100).
 
-##Live at 
+##Live at  
 https://chic-sunflower-51ae33.netlify.app
